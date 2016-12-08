@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{CD335338-3B5C-42C5-9508-24A095D39AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DajmTest", "UnitTestProject1\DajmTest.csproj", "{907E8849-6200-46AA-B074-A192912A4F2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD335338-3B5C-42C5-9508-24A095D39AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD335338-3B5C-42C5-9508-24A095D39AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD335338-3B5C-42C5-9508-24A095D39AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD335338-3B5C-42C5-9508-24A095D39AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{907E8849-6200-46AA-B074-A192912A4F2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{907E8849-6200-46AA-B074-A192912A4F2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{907E8849-6200-46AA-B074-A192912A4F2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{907E8849-6200-46AA-B074-A192912A4F2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
