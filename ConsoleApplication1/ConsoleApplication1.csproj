@@ -43,6 +43,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CommandHandler.cs" />
+    <Compile Include="CommandObject.cs" />
     <Compile Include="ConsoleCommands.cs" />
     <Compile Include="SQLConnection.cs" />
     <Compile Include="Program.cs" />
